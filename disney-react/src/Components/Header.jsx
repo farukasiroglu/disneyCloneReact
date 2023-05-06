@@ -44,7 +44,7 @@ function Header() {
   ];
 
   return (
-    <div className="flex items-center justify-between gap-8 p-5">
+    <div className="flex items-center justify-between gap-8 px-8 p-5">
       <div className="flex gap-8 items-center">
         <img
           src={Logo}
